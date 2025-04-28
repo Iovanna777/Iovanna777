@@ -38,7 +38,7 @@ Prompt Generation Tool
 
 Основы работы с LangChain для построения AI-решений
 
-Работа с GitHub
+Работа с GitHub, Koyeb
 
 Облачные платформы:
 
